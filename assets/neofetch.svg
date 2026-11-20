@@ -45,7 +45,7 @@
 <text x="446" y="268" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" fill="#c0caf5">Python / Vue / Astro</text>
 <text x="320" y="290" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" fill="#7aa2f7" font-weight="600">Repos</text>
 <text x="430" y="290" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" fill="#565f89">:</text>
-<text x="446" y="290" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" fill="#c0caf5">22 own / 67 total</text>
+<text x="446" y="290" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" fill="#c0caf5">22 own</text>
 <text x="320" y="312" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" fill="#7aa2f7" font-weight="600">Uptime</text>
 <text x="430" y="312" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" fill="#565f89">:</text>
 <text x="446" y="312" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" fill="#c0caf5">since Aug 2021</text>
