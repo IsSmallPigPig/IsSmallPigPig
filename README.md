@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/neofetch.svg" alt="neofetch output for AnkoQAQ — macOS, zsh, neovim, Python and Vue" width="880" />
+  <img src="./assets/neofetch.svg?v=2" alt="neofetch output for AnkoQAQ — macOS, zsh, neovim, Python and Vue" width="880" />
 </div>
 
 ```console
@@ -9,7 +9,7 @@
 学生，写工具给自用。多数时间在把「手动重复的事」变成「跑一次就完事」——抓数据的脚本、批量处理的 GUI、对接别人懒得接的后台。
 
 <div align="center">
-  <img src="./assets/nvim.svg" alt="Neovim buffer showing AnkoQAQ's profile as a Lua table" width="880" />
+  <img src="./assets/nvim.svg?v=1" alt="Neovim buffer showing AnkoQAQ's profile as a Lua table" width="880" />
 </div>
 
 ## ❯ projects
