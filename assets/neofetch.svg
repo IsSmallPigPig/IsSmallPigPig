@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="420" viewBox="0 0 880 420" role="img" aria-label="neofetch output for AnkoQAQ: macOS, zsh, neovim, Python and Vue">
+<defs>
+<clipPath id="w"><rect width="880" height="420" rx="12"/></clipPath>
+<radialGradient id="halo" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#f48fb1" stop-opacity="0.16"/><stop offset="1" stop-color="#f48fb1" stop-opacity="0"/></radialGradient>
+</defs>
+<g clip-path="url(#w)"><rect width="880" height="420" fill="#1a1b26"/>
+<rect width="880" height="40" fill="#1f2335"/><line x1="0" y1="40" x2="880" y2="40" stroke="#2f334d"/>
+<circle cx="22" cy="20.0" r="6" fill="#ff5f57"/>
+<circle cx="42" cy="20.0" r="6" fill="#febc2e"/>
+<circle cx="62" cy="20.0" r="6" fill="#28c840"/>
+<text x="440.0" y="25.0" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12.5" fill="#565f89">zsh &#8212; 96x28</text>
+<text x="24" y="66" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5"><tspan fill="#9ece6a">&#10095;</tspan><tspan fill="#c0caf5"> neofetch</tspan></text>
+<circle cx="152" cy="148" r="104" fill="url(#halo)"/>
+<g transform="translate(152,148)">
+<path d="M -48 -30 L -26 -54 L -10 -26 Z" fill="#ec6f9e"/>
+<path d="M 48 -30 L 26 -54 L 10 -26 Z" fill="#ec6f9e"/>
+<ellipse cx="0" cy="4" rx="56" ry="50" fill="#f8bbd0"/>
+<ellipse cx="-14" cy="-22" rx="22" ry="13" fill="#fce4ec" opacity="0.45"/>
+<circle cx="-23" cy="0" r="7.5" fill="#16161e"/>
+<circle cx="23" cy="0" r="7.5" fill="#16161e"/>
+<circle cx="-20.5" cy="-2.5" r="2.4" fill="#ffffff" opacity="0.9"/>
+<circle cx="25.5" cy="-2.5" r="2.4" fill="#ffffff" opacity="0.9"/>
+<ellipse cx="0" cy="24" rx="24" ry="17" fill="#f48fb1"/>
+<ellipse cx="-8.5" cy="24" rx="4.2" ry="7" fill="#16161e"/>
+<ellipse cx="8.5" cy="24" rx="4.2" ry="7" fill="#16161e"/>
+<ellipse cx="-40" cy="18" rx="8" ry="5" fill="#ec6f9e" opacity="0.55"/>
+<ellipse cx="40" cy="18" rx="8" ry="5" fill="#ec6f9e" opacity="0.55"/>
+</g>
+<text x="320" y="132" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15.5" font-weight="600" fill="#9ece6a">ankoqaq@github</text>
+<line x1="320" y1="140" x2="510" y2="140" stroke="#565f89" stroke-width="1"/>
+<text x="320" y="180" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" fill="#7aa2f7" font-weight="600">OS</text>
+<text x="430" y="180" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" fill="#565f89">:</text>
+<text x="446" y="180" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" fill="#c0caf5">macOS (Darwin)</text>
+<text x="320" y="202" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" fill="#7aa2f7" font-weight="600">Host</text>
+<text x="430" y="202" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" fill="#565f89">:</text>
+<text x="446" y="202" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" fill="#c0caf5">github.com</text>
+<text x="320" y="224" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" fill="#7aa2f7" font-weight="600">Shell</text>
+<text x="430" y="224" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" fill="#565f89">:</text>
+<text x="446" y="224" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" fill="#c0caf5">zsh</text>
+<text x="320" y="246" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" fill="#7aa2f7" font-weight="600">Editor</text>
+<text x="430" y="246" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" fill="#565f89">:</text>
+<text x="446" y="246" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" fill="#bb9af7">neovim</text>
+<text x="320" y="268" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" fill="#7aa2f7" font-weight="600">Langs</text>
+<text x="430" y="268" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" fill="#565f89">:</text>
+<text x="446" y="268" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" fill="#c0caf5">Python / Vue / Astro</text>
+<text x="320" y="290" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" fill="#7aa2f7" font-weight="600">Repos</text>
+<text x="430" y="290" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" fill="#565f89">:</text>
+<text x="446" y="290" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" fill="#c0caf5">22 own / 67 total</text>
+<text x="320" y="312" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" fill="#7aa2f7" font-weight="600">Uptime</text>
+<text x="430" y="312" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" fill="#565f89">:</text>
+<text x="446" y="312" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" fill="#c0caf5">since Aug 2021</text>
+<text x="320" y="334" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" fill="#7aa2f7" font-weight="600">Theme</text>
+<text x="430" y="334" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" fill="#565f89">:</text>
+<text x="446" y="334" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" fill="#c0caf5">tokyonight</text>
+<text x="320" y="356" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" fill="#7aa2f7" font-weight="600">Focus</text>
+<text x="430" y="356" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" fill="#565f89">:</text>
+<text x="446" y="356" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" fill="#c0caf5">tooling / automation</text>
+<rect x="320" y="386" width="26" height="16" rx="2" fill="#1a1b26" stroke="#2f334d"/>
+<rect x="356" y="386" width="26" height="16" rx="2" fill="#f7768e" stroke="#2f334d"/>
+<rect x="392" y="386" width="26" height="16" rx="2" fill="#9ece6a" stroke="#2f334d"/>
+<rect x="428" y="386" width="26" height="16" rx="2" fill="#e0af68" stroke="#2f334d"/>
+<rect x="464" y="386" width="26" height="16" rx="2" fill="#7aa2f7" stroke="#2f334d"/>
+<rect x="500" y="386" width="26" height="16" rx="2" fill="#bb9af7" stroke="#2f334d"/>
+<rect x="536" y="386" width="26" height="16" rx="2" fill="#7dcfff" stroke="#2f334d"/>
+<rect x="572" y="386" width="26" height="16" rx="2" fill="#c0caf5" stroke="#2f334d"/>
+</g>
+<rect x="0.5" y="0.5" width="879" height="419" rx="12" fill="none" stroke="#2f334d"/>
+</svg>
